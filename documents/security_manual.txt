@@ -1,0 +1,7 @@
+SECURITY MANUAL
+
+Employees must protect confidential company information.
+Never share passwords with anyone.
+Report security incidents immediately.
+Use multi-factor authentication for company accounts.
+Lock computers when leaving the workplace.

@@ -1,0 +1,7 @@
+IT POLICY
+
+Employees must use strong passwords.
+Company systems must only be used for official work.
+Software installation requires IT department approval.
+Company data must be backed up regularly.
+Unauthorized access is strictly prohibited.
